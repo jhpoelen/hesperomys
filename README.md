@@ -8,3 +8,4 @@ For context, see:
  * https://github.com/JelleZijlstra/taxonomy/
  * https://github.com/JelleZijlstra/hesperomys/
 
+Data files are stored with gzip compression for size. `taxa.csv.gz` contains all taxa in the Hesperomys database, `hesperomys.csv.gz` contains all names. To decompress, run `gzip -d taxa.csv.gz`.
